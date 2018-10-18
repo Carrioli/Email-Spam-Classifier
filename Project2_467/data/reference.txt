@@ -1,0 +1,3 @@
+this data comes from the apache spam assassin project
+
+link to data: http://spamassassin.apache.org/old/publiccorpus/
